@@ -1,0 +1,56 @@
+
+
+trump_tweets.csv (raw download, 6 years)
+trump_clean_tweets.csv (cleaned up),
+timestamp (datetime), day (number, 0-2190), week (number, 0-313), tweet (string), polarity (+/-)
+
+-> generation (SEMIH - Perşembe)
+code: parsing operation
+generate:
+
+trumps_words.csv
+words (string), frequency (number)
+
+trump_mentions.csv
+words (string), frequency (number)
+
+-> handmade (KAZIM)
+trump_adjectives.csv (keep the old version, pick from trump_words.csv, fill polarity)
+words (string), frequency (number), polarity (+/-)
+
+trump_actions.csv (keep the old version, pick from trump_words.csv, fill polarity)
+words (string), frequency (number)
+
+trump_enemies.csv (keep the old version, pick from trump_words.csv, fill polarity)words words (string), frequency (number), alliance (enemy/friend)
+
+-> sentiment analysis (BERAT)
+code: "group tweets by timestamp per day"
+input: "trump_clean_tweets.csv"
+generate:
+trump_positive_tweets_daily.csv (2.190 line)
+trump_negative_tweets_daily.csv (2.190 line)
+365 * 6 = 2.190 data points (per day)
+
+1. Milestone
+
+-> enemy breadth analysis in time
+code: trump_enemies.csv search per word in wordlist
+generate: "trump_enemies_weekly.csv"
+week (0-313), enemy (array ([enemy_name:enemy_freq],[enemy_name:enemy_freq],[enemy_name:enemy_freq]))
+2.190 / 7 ~= 313 data points (per week)
+
+-> most hated enemies in time
+code: parse trump_enemies_weekly.csv and calculate cumulative freq
+generate: "trump_nemesises_weekly.csv"
+week (0-313), enemy1_freq (number), enemy2_freq (number), enemy3_freq (number) 
+
+2. Milestone
+
+-> Gephy graph
+code: parse "trump_nemesises_weekly.csv"
+generate: nXn symmetric matrix
+import Gephy
+
+3. Milestone
+
+Graph (KAZIM)
