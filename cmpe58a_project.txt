@@ -2,7 +2,7 @@
 
 trump_tweets.csv (raw download, 6 years)
 trump_clean_tweets.csv (cleaned up),
-timestamp (datetime), day (number, 0-2190), week (number, 0-313), tweet (string), polarity (+/-)
+timestamp (datetime), day (number, 0-2190), week (number, 0-313), tweet (string), polarity (+/-) // DONE
 
 -> generation (SEMIH - Perşembe)
 code: parsing operation
@@ -54,3 +54,7 @@ import Gephy
 3. Milestone
 
 Graph (KAZIM)
+
+
+Mentions Regex
+(@[A-Za-z0-9]+)|
