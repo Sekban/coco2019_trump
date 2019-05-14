@@ -4,8 +4,8 @@ from datetime import datetime
 import numpy as np
 import pandas as pd
 
-PositiveSentimentPerDay = np.zeros(2192, dtype=float)
-NegativeSentimentPerDay = np.zeros(2192, dtype=float)
+PositiveSentimentPerDay = np.zeros(2192, dtype=int)
+NegativeSentimentPerDay = np.zeros(2192, dtype=int)
 
 with open('trump_cleaned_tweets.csv', encoding='utf8') as csvfile:
     readCSV = csv.reader(csvfile, delimiter=',')
@@ -15,9 +15,9 @@ with open('trump_cleaned_tweets.csv', encoding='utf8') as csvfile:
         dayIndex = int(row[2]) - 9 # since the days column in trump_cleaned_tweets.csv started from 9
         sentiment = float(row[5])
         if sentiment > 0:
-            PositiveSentimentPerDay[dayIndex] += sentiment
+            PositiveSentimentPerDay[dayIndex] += 1
         if sentiment < 0:
-            NegativeSentimentPerDay[dayIndex] += sentiment
+            NegativeSentimentPerDay[dayIndex] += 1
 
 PositiveSentimentPerDay = PositiveSentimentPerDay.tolist()
 NegativeSentimentPerDay = NegativeSentimentPerDay.tolist()
