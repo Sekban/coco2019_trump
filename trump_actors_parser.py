@@ -10,7 +10,7 @@ with open('trump_mentions.csv', encoding='utf8') as csvfile:
     readCSV = csv.reader(csvfile, delimiter=',')
     next(readCSV)
     for wordDict in readCSV:
-        if int(wordDict[1]) < 10:
+        if int(wordDict[1]) < 10 or wordDict[0] == "@":
             continue
         word = wordDict[0]
         actor = {}
