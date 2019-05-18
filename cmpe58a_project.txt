@@ -39,8 +39,10 @@ generate: "trump_actors_weekly.csv"
 week (0-313), enemy (array ([enemy_name:enemy_freq],[enemy_name:enemy_freq],[enemy_name:enemy_freq]))
 2.190 / 7 ~= 313 data points (per week)
 
--> most hated actors in time
--> most loved actors in time
+trump_actors_weekly will be divided into two, enemies and allies. // TODO
+
+-> most hated actors in time // Removed from the plan
+-> most loved actors in time // Removed from the plan
 code: parse trump_actors_weekly.csv and calculate cumulative freq
 generate: "trump_nemesises_weekly.csv" and "trump_allies_weekly.csv"
 week (0-313), enemy1_freq (number), enemy2_freq (number), enemy3_freq (number) 
@@ -51,6 +53,8 @@ week (0-313), enemy1_freq (number), enemy2_freq (number), enemy3_freq (number)
 code: parse "trump_nemesises_weekly.csv"
 generate: nXn symmetric matrix
 import Gephy
+
+25x25 matrix enemy relation with other enemies, cumulative
 
 3. Milestone
 
