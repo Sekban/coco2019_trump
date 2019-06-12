@@ -51,7 +51,7 @@ week (0-313), enemy1_freq (number), enemy2_freq (number), enemy3_freq (number)
 
 -> Gephy graph
 code: parse "trump_nemesises_weekly.csv"
-generate: nXn symmetric matrix
+generate: nXn symmetric matrix // DONE
 import Gephy
 
 25x25 matrix enemy relation with other enemies, cumulative
