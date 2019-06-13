@@ -1,11 +1,3 @@
 # coco2019_trump
 
-WikiData to find the superclass of professions
-Have functions ready to use on your results. TFI IFT
-Hashtag analysis, segmentation. Could be informative in the context of sentiment.
-Entity detection
-Identify mentions/hashtags and replace them with their authentic names // See if you can do this.
-Wikidata has the information about their twitter accounts.
-
-Stop words, specifically suited for Twitter. 
-We could define a general scope during interactions with other Entities. 
+CMPE 58A SP.TP. COOPERATİON STUDİES İN THE CONTEXT OF COMPUTER SCİENCE Trumping Topics Project, in which we analyse Donald Trump's tweets from 7th May 2013 to 7th May 2019. Applying sentiment analysis and NLP we analyse Donald Trump's text usage. His choice of adjectives, whom he deems as allies, enemies. These allies/enemies' daily/weekly distributions. Which enemies have been mentioned with which other enemies in the same week. What are the daily cumulative sentiments of his tweets etc.
