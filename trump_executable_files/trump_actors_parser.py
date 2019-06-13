@@ -11,7 +11,7 @@ keys = ['actor', 'frequency', 'negative','positive', 'rated']
 dict_writer = csv.DictWriter(output_file, keys)
 dict_writer.writeheader()
 
-with open('trump_mentions.csv', encoding='utf8') as csvfile:
+with open('trump_executable_outputs/trump_mentions.csv', encoding='utf8') as csvfile:
     readCSV = csv.reader(csvfile, delimiter=',')
     next(readCSV)
     for wordDict in readCSV:
@@ -26,13 +26,13 @@ with open('trump_mentions.csv', encoding='utf8') as csvfile:
         actor["negative"] = 0
         actor["positive"] = 0
         actor["rated"] = 0
-        with open('trump_cleaned_tweets.csv', encoding='utf8') as tweetscsvfile:
+        with open('trump_executable_outputs/trump_cleaned_tweets.csv', encoding='utf8') as tweetscsvfile:
             tweetCSV = csv.reader(tweetscsvfile, delimiter=',')
             next(tweetCSV)
             'cleaned tweets are looped through'
             for tweet in tweetCSV:
-                if word in tweet[4]:
-                    "We then fetch the polarity that we've previsouly calculated with trumpInitialiser.py "
+                if word in tweet[4].split():
+                    "We then fetch the polarity that we've previously calculated with trumpInitialiser.py "
                     polarity = float(tweet[5])
                     if polarity < 0:
                         """

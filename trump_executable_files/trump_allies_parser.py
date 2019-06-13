@@ -16,7 +16,7 @@ allies = []
 '''
 This parser simply fetches the rows from trump_actors_rated.csv and depending on the net rating we've calculated within trump_actors_parser.py, appends a desired data structure to a list of allies.
 '''
-with open('trump_actors_rated.csv', encoding='utf8') as csvfile:
+with open('trump_executable_outputs/trump_actors_rated.csv', encoding='utf8') as csvfile:
     readCSV = csv.reader(csvfile, delimiter=',')
     next(readCSV)
     for actor in readCSV:

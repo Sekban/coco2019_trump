@@ -27,7 +27,7 @@ for x in range(1,315):
 '''
 trump_actors_rated.csv includes the name of the actor, how frequently the actor has been mentioned, how many times he/she's been mentioned in positive/negative contexts, and the net ratings
 '''
-with open('trump_actors_rated.csv', encoding='utf8') as csvfile:
+with open('trump_executable_outputs/trump_actors_rated.csv', encoding='utf8') as csvfile:
     readCSV = csv.reader(csvfile, delimiter=',')
     next(readCSV)
     counter = 0
@@ -46,7 +46,7 @@ with open('trump_actors_rated.csv', encoding='utf8') as csvfile:
         If so, the actor is appended to the actors list
         If the same actor is encountered again, its frequency is incremented by 1
         '''
-        with open('trump_cleaned_tweets.csv', encoding='utf8') as tweetscsvfile:
+        with open('trump_executable_outputs/trump_cleaned_tweets.csv', encoding='utf8') as tweetscsvfile:
             tweetCSV = csv.reader(tweetscsvfile, delimiter=',')
             next(tweetCSV)
             for tweet in tweetCSV:

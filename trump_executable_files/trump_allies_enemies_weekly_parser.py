@@ -21,13 +21,13 @@ enemyNames = []
 allyNames = []
 
 'Trump enemy names are fetched and stored in a list'
-with open('trump_enemies.csv', encoding='utf8') as enemyCsvfile:
+with open('trump_executable_outputs/trump_enemies.csv', encoding='utf8') as enemyCsvfile:
     enemyReadCSV = csv.reader(enemyCsvfile, delimiter=',')
     next(enemyReadCSV)
     for enemy in enemyReadCSV:
         enemyNames.append(enemy[0])
 'Trump ally names are fetched and stored in a list'
-with open('trump_allies.csv', encoding='utf8') as allyCsvfile:
+with open('trump_executable_outputs/trump_allies.csv', encoding='utf8') as allyCsvfile:
     allyReadCSV = csv.reader(allyCsvfile, delimiter=',')
     next(allyReadCSV)
     for ally in allyReadCSV:
@@ -53,7 +53,7 @@ alliesWeekly = []
 enemiesWeekly = []
 
 'Aim of this file is to separate the allies and enemies inside trump_actors_weekly.csv'
-with open('trump_actors_weekly.csv', encoding='utf8') as actorsCSV:
+with open('trump_executable_outputs/trump_actors_weekly.csv', encoding='utf8') as actorsCSV:
             weeklyActorsCSV = csv.reader(actorsCSV, delimiter = ',')
             next(weeklyActorsCSV)
             for weeklyActors in weeklyActorsCSV:

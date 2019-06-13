@@ -10,7 +10,7 @@ enemyNames = []
 Aim of this file is to create a symmetric matrix representing which enemies have been mentioned with which other enemies in the same week.
 The values beteen two enemies are updated based on the occurrence of this phenomenon.
 '''
-with open('trump_enemies.csv', encoding='utf8') as csvfile:
+with open('trump_executable_outputs/trump_enemies.csv', encoding='utf8') as csvfile:
     readCSV = csv.reader(csvfile, delimiter=',')
     next(readCSV)
     'enemyNames are stored in memory'
@@ -18,7 +18,7 @@ with open('trump_enemies.csv', encoding='utf8') as csvfile:
         enemyNames.append(enemy[0])
     'For each enemy, we are traversing through trump_actors_weekly.csv file'
     for enemyName in enemyNames:
-        with open('trump_actors_weekly.csv', encoding='utf8') as actorsCSV:
+        with open('trump_executable_outputs/trump_actors_weekly.csv', encoding='utf8') as actorsCSV:
             weeklyActorsCSV = csv.reader(actorsCSV, delimiter = ',')
             next(weeklyActorsCSV)
             for weeklyActors in weeklyActorsCSV:

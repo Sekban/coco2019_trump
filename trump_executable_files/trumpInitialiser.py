@@ -19,7 +19,7 @@ dict_writer.writeheader()
 trump_tweets.csv is the raw data we've fetched from http://trumptwitterarchive.com/archive
 '''
 cleanedTweets = []
-with open('trump_tweets.csv', encoding='utf8') as csvfile:
+with open('trump_executable_outputs/trump_tweets.csv', encoding='utf8') as csvfile:
     readCSV = csv.reader(csvfile, delimiter=',')
     'The following line skips the row that includes the headers'
     next(readCSV)
@@ -74,7 +74,7 @@ mentions = []
 mentionsByFreq = []
 mentionsByFreqCsv = []
 
-with open('trump_cleaned_tweets.csv', encoding='utf8') as csvfile:
+with open('trump_executable_outputs/trump_cleaned_tweets.csv', encoding='utf8') as csvfile:
     readCSV = csv.reader(csvfile, delimiter=',')
     next(readCSV)
     for row in readCSV:

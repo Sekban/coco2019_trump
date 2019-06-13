@@ -21,7 +21,7 @@ nltk.download('brown')
 brownTaggedWords = brown.tagged_words()
 
 adjectives = []
-with open('trump_words.csv', encoding='utf8') as csvfile:
+with open('trump_executable_outputs/trump_words.csv', encoding='utf8') as csvfile:
     readCSV = csv.reader(csvfile, delimiter=',')
     next(readCSV)
     for row in readCSV:

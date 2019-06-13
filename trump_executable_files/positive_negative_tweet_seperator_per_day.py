@@ -8,7 +8,7 @@ import pandas as pd
 PositiveSentimentPerDay = np.zeros(2192, dtype=int)
 NegativeSentimentPerDay = np.zeros(2192, dtype=int)
 
-with open('trump_cleaned_tweets.csv', encoding='utf8') as csvfile:
+with open('trump_executable_outputs/trump_cleaned_tweets.csv', encoding='utf8') as csvfile:
     readCSV = csv.reader(csvfile, delimiter=',')
     next(readCSV)
     counter = 0
