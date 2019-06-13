@@ -1,4 +1,3 @@
-
 @realDonaldTrump
 @FoxNews : affiliated news network
 @foxandfriends : affiliated tv show
@@ -24,7 +23,7 @@
 @AlexSalmond : former ally, current rival
 @Morning : affiliated tv show
 @AGSchneiderman : rival politician
-@DannyZuker : affiliated tv person
+@DannyZuker : rival tv person
 @TrumpTowerNY : affiliated business
 @Newsmax : affiliated news channel
 @KarlRove : affiliated politician
@@ -34,7 +33,7 @@
 @FLOTUS: Affiliated, wife
 @DanScavino: Affiliated, former employee
 @TrumpScotland: Affiliated, business
-@AnnCoulter: Ally far right author
+@AnnCoulter: former ally, current rival far right author
 @BrettBaier: Ally network anchor
 @MissUniverse: Affiliated, convention
 @TrumpNewYork: Affiliated, business
@@ -48,3 +47,12 @@
 @TrumpSoHo: Affiliated, business
 @AmSpec: Affiliated, Republican Political Commentary
 @TrumpGolfLA: Affiliated, business
+
+
+former ally, current rival : 3, @BreitbartNews, @AlexSalmond, @AnnCoulter
+political rival : 3, @JebBush, @HillaryClinton, @AGSchneiderman
+political ally : 3
+news channel ally : 13
+news channel rival : 4
+affiliated business : 8
+family : 5
