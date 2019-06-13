@@ -23,8 +23,28 @@
 @BrandiGlanville : affiliated tv person
 @AlexSalmond : former ally, current rival
 @Morning : affiliated tv show
-@AGSchneiderman : rival politican
+@AGSchneiderman : rival politician
 @DannyZuker : affiliated tv person
 @TrumpTowerNY : affiliated business
 @Newsmax : affiliated news channel
-@KarlRove : affiliated politician 
+@KarlRove : affiliated politician
+@nflcommish: Neutral, NFL commissioner
+@GeraldoRivera: Affiliated tabloid reporter
+@nbc: Rival network
+@FLOTUS: Affiliated, wife
+@DanScavino: Affiliated, former employee
+@TrumpScotland: Affiliated, business
+@AnnCoulter: Ally far right author
+@BrettBaier: Ally network anchor
+@MissUniverse: Affiliated, convention
+@TrumpNewYork: Affiliated, business
+@NBCNews: Neutral network
+@WSJ: Rival network
+@ABC: Affiliated network
+@leezagibbons: Entertainer
+@piersmorgan: Rival journalist
+@MikeAndMike: Random
+@MELANIATRUMP: Affiliated, his wife
+@TrumpSoHo: Affiliated, business
+@AmSpec: Affiliated, Republican Political Commentary
+@TrumpGolfLA: Affiliated, business
