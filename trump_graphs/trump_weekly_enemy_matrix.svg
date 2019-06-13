@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1559.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-795.000000 -978.000000 1559.000000 2044.000000" height="2044.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="8.0"
+              d="M -235.139221,-217.667465 L -788.111084,-277.012115"
+              class="id_@nytimes id_@MSNBC" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="16.0"
+              d="M -235.139221,-217.667465 L -483.520935,-103.021530"
+              class="id_@nytimes id_@NBCNews" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="8.0"
+              d="M -235.139221,-217.667465 L 86.809746,-483.510406"
+              class="id_@nytimes id_@FrankLuntz" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="18.0"
+              d="M -235.139221,-217.667465 L -48.825588,-154.965317"
+              class="id_@nytimes id_@WSJ" stroke-opacity="0.6" stroke="#1a0005"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -235.139221,-217.667465 L -37.328037,-583.703979"
+              class="id_@nytimes id_@thehill" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -235.139221,-217.667465 L -280.154388,65.598770"
+              class="id_@nytimes id_@WashTimes" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -235.139221,-217.667465 L -30.456964,584.419861"
+              class="id_@nytimes id_@VanityFair" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -235.139221,-217.667465 L -326.811493,-668.324158"
+              class="id_@nytimes id_@RealBenCarson" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="12.0"
+              d="M -235.139221,-217.667465 L -210.551224,-456.872437"
+              class="id_@nytimes id_@JebBush" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -235.139221,-217.667465 L -564.072510,184.277069"
+              class="id_@nytimes id_@SarahPalinUSA" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -235.139221,-217.667465 L 335.628052,-305.846130"
+              class="id_@nytimes id_@HuffingtonPost" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -235.139221,-217.667465 L 551.428284,37.695114"
+              class="id_@nytimes id_@billmaher" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -235.139221,-217.667465 L 425.162506,407.341156"
+              class="id_@nytimes id_@AlexSalmond" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -788.111084,-277.012115 L -590.146851,-524.478271"
+              class="id_@MSNBC id_@MittRomney" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -788.111084,-277.012115 L -483.520935,-103.021530"
+              class="id_@MSNBC id_@NBCNews" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -788.111084,-277.012115 L -48.825588,-154.965317"
+              class="id_@MSNBC id_@WSJ" stroke-opacity="0.6" stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -788.111084,-277.012115 L -210.551224,-456.872437"
+              class="id_@MSNBC id_@JebBush" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -788.111084,-277.012115 L -564.072510,184.277069"
+              class="id_@MSNBC id_@SarahPalinUSA" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -590.146851,-524.478271 L -483.520935,-103.021530"
+              class="id_@MittRomney id_@NBCNews" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -590.146851,-524.478271 L -48.825588,-154.965317"
+              class="id_@MittRomney id_@WSJ" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -590.146851,-524.478271 L -37.328037,-583.703979"
+              class="id_@MittRomney id_@thehill" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -590.146851,-524.478271 L -280.154388,65.598770"
+              class="id_@MittRomney id_@WashTimes" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -590.146851,-524.478271 L -30.456964,584.419861"
+              class="id_@MittRomney id_@VanityFair" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -590.146851,-524.478271 L -326.811493,-668.324158"
+              class="id_@MittRomney id_@RealBenCarson" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="8.0"
+              d="M -590.146851,-524.478271 L -526.395508,-328.802277"
+              class="id_@MittRomney id_@NYDailyNews" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="8.0"
+              d="M -590.146851,-524.478271 L -210.551224,-456.872437"
+              class="id_@MittRomney id_@JebBush" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -590.146851,-524.478271 L -564.072510,184.277069"
+              class="id_@MittRomney id_@SarahPalinUSA" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -590.146851,-524.478271 L 335.628052,-305.846130"
+              class="id_@MittRomney id_@HuffingtonPost" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -483.520935,-103.021530 L 86.809746,-483.510406"
+              class="id_@NBCNews id_@FrankLuntz" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -483.520935,-103.021530 L -48.825588,-154.965317"
+              class="id_@NBCNews id_@WSJ" stroke-opacity="0.6" stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -483.520935,-103.021530 L -37.328037,-583.703979"
+              class="id_@NBCNews id_@thehill" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -483.520935,-103.021530 L -280.154388,65.598770"
+              class="id_@NBCNews id_@WashTimes" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -483.520935,-103.021530 L -326.811493,-668.324158"
+              class="id_@NBCNews id_@RealBenCarson" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -483.520935,-103.021530 L -526.395508,-328.802277"
+              class="id_@NBCNews id_@NYDailyNews" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -483.520935,-103.021530 L -564.072510,184.277069"
+              class="id_@NBCNews id_@SarahPalinUSA" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -483.520935,-103.021530 L 9.340816,278.706177"
+              class="id_@NBCNews id_@mboyle1" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -483.520935,-103.021530 L 477.252502,817.395447"
+              class="id_@NBCNews id_@Rosie" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="8.0"
+              d="M 86.809746,-483.510406 L -48.825588,-154.965317"
+              class="id_@FrankLuntz id_@WSJ" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 86.809746,-483.510406 L -37.328037,-583.703979"
+              class="id_@FrankLuntz id_@thehill" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 86.809746,-483.510406 L -326.811493,-668.324158"
+              class="id_@FrankLuntz id_@RealBenCarson" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 86.809746,-483.510406 L -210.551224,-456.872437"
+              class="id_@FrankLuntz id_@JebBush" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 86.809746,-483.510406 L 366.162628,-660.955444"
+              class="id_@FrankLuntz id_@UnionLeader" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 86.809746,-483.510406 L 335.628052,-305.846130"
+              class="id_@FrankLuntz id_@HuffingtonPost" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="8.0"
+              d="M -48.825588,-154.965317 L -37.328037,-583.703979"
+              class="id_@WSJ id_@thehill" stroke-opacity="0.6" stroke="#1a0005"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -48.825588,-154.965317 L -280.154388,65.598770"
+              class="id_@WSJ id_@WashTimes" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -48.825588,-154.965317 L -30.456964,584.419861"
+              class="id_@WSJ id_@VanityFair" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="8.0"
+              d="M -48.825588,-154.965317 L -326.811493,-668.324158"
+              class="id_@WSJ id_@RealBenCarson" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -48.825588,-154.965317 L -526.395508,-328.802277"
+              class="id_@WSJ id_@NYDailyNews" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="10.0"
+              d="M -48.825588,-154.965317 L -210.551224,-456.872437"
+              class="id_@WSJ id_@JebBush" stroke-opacity="0.6" stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -48.825588,-154.965317 L -564.072510,184.277069"
+              class="id_@WSJ id_@SarahPalinUSA" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -48.825588,-154.965317 L 335.628052,-305.846130"
+              class="id_@WSJ id_@HuffingtonPost" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -48.825588,-154.965317 L 9.340816,278.706177"
+              class="id_@WSJ id_@mboyle1" stroke-opacity="0.6" stroke="#1a0005"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -48.825588,-154.965317 L 551.428284,37.695114"
+              class="id_@WSJ id_@billmaher" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -48.825588,-154.965317 L 425.162506,407.341156"
+              class="id_@WSJ id_@AlexSalmond" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -48.825588,-154.965317 L 304.012756,707.738586"
+              class="id_@WSJ id_@DannyZuker" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -48.825588,-154.965317 L 153.847336,1064.945313"
+              class="id_@WSJ id_@DanAmira" stroke-opacity="0.6" stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -48.825588,-154.965317 L 408.892395,1034.566162"
+              class="id_@WSJ id_@NYMag" stroke-opacity="0.6" stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -37.328037,-583.703979 L -30.456964,584.419861"
+              class="id_@thehill id_@VanityFair" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -37.328037,-583.703979 L -326.811493,-668.324158"
+              class="id_@thehill id_@RealBenCarson" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -37.328037,-583.703979 L -526.395508,-328.802277"
+              class="id_@thehill id_@NYDailyNews" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="12.0"
+              d="M -37.328037,-583.703979 L -210.551224,-456.872437"
+              class="id_@thehill id_@JebBush" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -37.328037,-583.703979 L 366.162628,-660.955444"
+              class="id_@thehill id_@UnionLeader" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -37.328037,-583.703979 L 246.250824,-976.650330"
+              class="id_@thehill id_@JonahNRO" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -37.328037,-583.703979 L 335.628052,-305.846130"
+              class="id_@thehill id_@HuffingtonPost" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -37.328037,-583.703979 L 9.340816,278.706177"
+              class="id_@thehill id_@mboyle1" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -37.328037,-583.703979 L 551.428284,37.695114"
+              class="id_@thehill id_@billmaher" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -280.154388,65.598770 L -526.395508,-328.802277"
+              class="id_@WashTimes id_@NYDailyNews" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -280.154388,65.598770 L -210.551224,-456.872437"
+              class="id_@WashTimes id_@JebBush" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -280.154388,65.598770 L -564.072510,184.277069"
+              class="id_@WashTimes id_@SarahPalinUSA" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -280.154388,65.598770 L 335.628052,-305.846130"
+              class="id_@WashTimes id_@HuffingtonPost" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -280.154388,65.598770 L 9.340816,278.706177"
+              class="id_@WashTimes id_@mboyle1" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -280.154388,65.598770 L 304.012756,707.738586"
+              class="id_@WashTimes id_@DannyZuker" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -30.456964,584.419861 L -210.551224,-456.872437"
+              class="id_@VanityFair id_@JebBush" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -30.456964,584.419861 L -564.072510,184.277069"
+              class="id_@VanityFair id_@SarahPalinUSA" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -30.456964,584.419861 L 9.340816,278.706177"
+              class="id_@VanityFair id_@mboyle1" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -30.456964,584.419861 L 425.162506,407.341156"
+              class="id_@VanityFair id_@AlexSalmond" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -30.456964,584.419861 L 304.012756,707.738586"
+              class="id_@VanityFair id_@DannyZuker" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -30.456964,584.419861 L 153.847336,1064.945313"
+              class="id_@VanityFair id_@DanAmira" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -30.456964,584.419861 L 408.892395,1034.566162"
+              class="id_@VanityFair id_@NYMag" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -326.811493,-668.324158 L -526.395508,-328.802277"
+              class="id_@RealBenCarson id_@NYDailyNews" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -326.811493,-668.324158 L -210.551224,-456.872437"
+              class="id_@RealBenCarson id_@JebBush" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -326.811493,-668.324158 L 366.162628,-660.955444"
+              class="id_@RealBenCarson id_@UnionLeader" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -526.395508,-328.802277 L -210.551224,-456.872437"
+              class="id_@NYDailyNews id_@JebBush" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -526.395508,-328.802277 L -564.072510,184.277069"
+              class="id_@NYDailyNews id_@SarahPalinUSA" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -526.395508,-328.802277 L 335.628052,-305.846130"
+              class="id_@NYDailyNews id_@HuffingtonPost" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -526.395508,-328.802277 L 9.340816,278.706177"
+              class="id_@NYDailyNews id_@mboyle1" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="6.0"
+              d="M -210.551224,-456.872437 L -564.072510,184.277069"
+              class="id_@JebBush id_@SarahPalinUSA" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -210.551224,-456.872437 L 366.162628,-660.955444"
+              class="id_@JebBush id_@UnionLeader" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -210.551224,-456.872437 L 246.250824,-976.650330"
+              class="id_@JebBush id_@JonahNRO" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -210.551224,-456.872437 L 335.628052,-305.846130"
+              class="id_@JebBush id_@HuffingtonPost" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -210.551224,-456.872437 L 551.428284,37.695114"
+              class="id_@JebBush id_@billmaher" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="4.0"
+              d="M -564.072510,184.277069 L 9.340816,278.706177"
+              class="id_@SarahPalinUSA id_@mboyle1" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -564.072510,184.277069 L 425.162506,407.341156"
+              class="id_@SarahPalinUSA id_@AlexSalmond" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M -564.072510,184.277069 L 304.012756,707.738586"
+              class="id_@SarahPalinUSA id_@DannyZuker" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 366.162628,-660.955444 L 246.250824,-976.650330"
+              class="id_@UnionLeader id_@JonahNRO" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 366.162628,-660.955444 L 335.628052,-305.846130"
+              class="id_@UnionLeader id_@HuffingtonPost" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 366.162628,-660.955444 L 425.162506,407.341156"
+              class="id_@UnionLeader id_@AlexSalmond" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 335.628052,-305.846130 L 9.340816,278.706177"
+              class="id_@HuffingtonPost id_@mboyle1" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 335.628052,-305.846130 L 425.162506,407.341156"
+              class="id_@HuffingtonPost id_@AlexSalmond" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 335.628052,-305.846130 L 756.485535,559.071472"
+              class="id_@HuffingtonPost id_@Toure" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 9.340816,278.706177 L 425.162506,407.341156"
+              class="id_@mboyle1 id_@AlexSalmond" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 9.340816,278.706177 L 304.012756,707.738586"
+              class="id_@mboyle1 id_@DannyZuker" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 9.340816,278.706177 L 756.485535,559.071472"
+              class="id_@mboyle1 id_@Toure" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 551.428284,37.695114 L 425.162506,407.341156"
+              class="id_@billmaher id_@AlexSalmond" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 551.428284,37.695114 L 304.012756,707.738586"
+              class="id_@billmaher id_@DannyZuker" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 551.428284,37.695114 L 756.485535,559.071472"
+              class="id_@billmaher id_@Toure" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 477.252502,817.395447 L 425.162506,407.341156"
+              class="id_@Rosie id_@AlexSalmond" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 477.252502,817.395447 L 304.012756,707.738586"
+              class="id_@Rosie id_@DannyZuker" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="6.0"
+              d="M 425.162506,407.341156 L 304.012756,707.738586"
+              class="id_@AlexSalmond id_@DannyZuker" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 425.162506,407.341156 L 408.892395,1034.566162"
+              class="id_@AlexSalmond id_@NYMag" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 425.162506,407.341156 L 756.485535,559.071472"
+              class="id_@AlexSalmond id_@Toure" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 304.012756,707.738586 L 408.892395,1034.566162"
+              class="id_@DannyZuker id_@NYMag" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 304.012756,707.738586 L 756.485535,559.071472"
+              class="id_@DannyZuker id_@Toure" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="4.0"
+              d="M 153.847336,1064.945313 L 408.892395,1034.566162"
+              class="id_@DanAmira id_@NYMag" stroke-opacity="0.6"
+              stroke="#1a0005"/>
+        <path fill="none" stroke-width="2.0"
+              d="M 408.892395,1034.566162 L 756.485535,559.071472"
+              class="id_@NYMag id_@Toure" stroke-opacity="0.6" stroke="#1a0005"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="0.4" fill="#1a0005" r="19.125" cx="-235.13922"
+                class="id_@nytimes" cy="-217.66747" stroke="#000000"
+                stroke-opacity="0.4" stroke-width="1.0"/>
+        <circle fill-opacity="0.4" fill="#1a0005" r="6.4375" cx="-788.1111"
+                class="id_@MSNBC" cy="-277.01212" stroke="#000000"
+                stroke-opacity="0.4" stroke-width="1.0"/>
+        <circle fill-opacity="0.4" fill="#1a0005" r="17.3125" cx="-483.52094"
+                class="id_@NBCNews" cy="-103.02153" stroke="#000000"
+                stroke-opacity="0.4" stroke-width="1.0"/>
+        <circle fill-opacity="0.4" fill="#1a0005" r="10.0625" cx="86.809746"
+                class="id_@FrankLuntz" cy="-483.5104" stroke="#000000"
+                stroke-opacity="0.4" stroke-width="1.0"/>
+        <circle fill-opacity="0.4" fill="#1a0005" r="30.0" cx="-48.82559"
+                class="id_@WSJ" cy="-154.96532" stroke="#000000"
+                stroke-opacity="0.4" stroke-width="1.0"/>
+        <circle fill-opacity="0.4" fill="#1a0005" r="20.9375" cx="-37.328037"
+                class="id_@thehill" cy="-583.704" stroke="#000000"
+                stroke-opacity="0.4" stroke-width="1.0"/>
+        <circle fill-opacity="0.4" fill="#1a0005" r="13.6875" cx="-280.1544"
+                class="id_@WashTimes" cy="65.59877" stroke="#000000"
+                stroke-opacity="0.4" stroke-width="1.0"/>
+        <circle fill-opacity="0.4" fill="#1a0005" r="15.5" cx="-30.456964"
+                class="id_@VanityFair" cy="584.41986" stroke="#000000"
+                stroke-opacity="0.4" stroke-width="1.0"/>
+        <circle fill-opacity="0.4" fill="#1a0005" r="11.875" cx="-326.8115"
+                class="id_@RealBenCarson" cy="-668.32416" stroke="#000000"
+                stroke-opacity="0.4" stroke-width="1.0"/>
+        <circle fill-opacity="0.4" fill="#1a0005" r="22.75" cx="-210.55122"
+                class="id_@JebBush" cy="-456.87244" stroke="#000000"
+                stroke-opacity="0.4" stroke-width="1.0"/>
+        <circle fill-opacity="0.4" fill="#1a0005" r="17.3125" cx="-564.0725"
+                class="id_@SarahPalinUSA" cy="184.27707" stroke="#000000"
+                stroke-opacity="0.4" stroke-width="1.0"/>
+        <circle fill-opacity="0.4" fill="#1a0005" r="17.3125" cx="335.62805"
+                class="id_@HuffingtonPost" cy="-305.84613" stroke="#000000"
+                stroke-opacity="0.4" stroke-width="1.0"/>
+        <circle fill-opacity="0.4" fill="#1a0005" r="8.25" cx="551.4283"
+                class="id_@billmaher" cy="37.695114" stroke="#000000"
+                stroke-opacity="0.4" stroke-width="1.0"/>
+        <circle fill-opacity="0.4" fill="#1a0005" r="17.3125" cx="425.1625"
+                class="id_@AlexSalmond" cy="407.34116" stroke="#000000"
+                stroke-opacity="0.4" stroke-width="1.0"/>
+        <circle fill-opacity="0.4" fill="#1a0005" r="15.5" cx="-590.14685"
+                class="id_@MittRomney" cy="-524.4783" stroke="#000000"
+                stroke-opacity="0.4" stroke-width="1.0"/>
+        <circle fill-opacity="0.4" fill="#1a0005" r="13.6875" cx="-526.3955"
+                class="id_@NYDailyNews" cy="-328.80228" stroke="#000000"
+                stroke-opacity="0.4" stroke-width="1.0"/>
+        <circle fill-opacity="0.4" fill="#1a0005" r="15.5" cx="9.3408165"
+                class="id_@mboyle1" cy="278.70618" stroke="#000000"
+                stroke-opacity="0.4" stroke-width="1.0"/>
+        <circle fill-opacity="0.4" fill="#1a0005" r="1.0" cx="477.2525"
+                class="id_@Rosie" cy="817.39545" stroke="#000000"
+                stroke-opacity="0.4" stroke-width="1.0"/>
+        <circle fill-opacity="0.4" fill="#1a0005" r="8.25" cx="366.16263"
+                class="id_@UnionLeader" cy="-660.95544" stroke="#000000"
+                stroke-opacity="0.4" stroke-width="1.0"/>
+        <circle fill-opacity="0.4" fill="#1a0005" r="13.6875" cx="304.01276"
+                class="id_@DannyZuker" cy="707.7386" stroke="#000000"
+                stroke-opacity="0.4" stroke-width="1.0"/>
+        <circle fill-opacity="0.4" fill="#1a0005" r="1.0" cx="153.84734"
+                class="id_@DanAmira" cy="1064.9453" stroke="#000000"
+                stroke-opacity="0.4" stroke-width="1.0"/>
+        <circle fill-opacity="0.4" fill="#1a0005" r="6.4375" cx="408.8924"
+                class="id_@NYMag" cy="1034.5662" stroke="#000000"
+                stroke-opacity="0.4" stroke-width="1.0"/>
+        <circle fill-opacity="0.4" fill="#1a0005" r="1.0" cx="246.25082"
+                class="id_@JonahNRO" cy="-976.6503" stroke="#000000"
+                stroke-opacity="0.4" stroke-width="1.0"/>
+        <circle fill-opacity="0.4" fill="#1a0005" r="6.4375" cx="756.48553"
+                class="id_@Toure" cy="559.0715" stroke="#000000"
+                stroke-opacity="0.4" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="39" x="-235.13922" y="-208.5078" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_@nytimes">
+            @nytimes
+        </text>
+        <text font-size="29" x="-788.1111" y="-270.20108" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_@MSNBC">
+            @MSNBC
+        </text>
+        <text font-size="38" x="-483.52094" y="-94.096725" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_@NBCNews">
+            @NBCNews
+        </text>
+        <text font-size="32" x="86.809746" y="-475.99478" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_@FrankLuntz">
+            @FrankLuntz
+        </text>
+        <text font-size="48" x="-48.82559" y="-143.69188" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_@WSJ">
+            @WSJ
+        </text>
+        <text font-size="41" x="-37.328037" y="-574.0746" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_@thehill">
+            @thehill
+        </text>
+        <text font-size="35" x="-280.1544" y="73.818985" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_@WashTimes">
+            @WashTimes
+        </text>
+        <text font-size="36" x="-30.456964" y="592.87494" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_@VanityFair">
+            @VanityFair
+        </text>
+        <text font-size="33" x="-326.8115" y="-660.57367" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_@RealBenCarson">
+            @RealBenCarson
+        </text>
+        <text font-size="42" x="-210.55122" y="-447.00818" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_@JebBush">
+            @JebBush
+        </text>
+        <text font-size="38" x="-564.0725" y="193.20187" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_@SarahPalinUSA">
+            @SarahPalinUSA
+        </text>
+        <text font-size="38" x="335.62805" y="-296.92133" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_@HuffingtonPost">
+            @HuffingtonPost
+        </text>
+        <text font-size="30" x="551.4283" y="44.741013" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_@billmaher">
+            @billmaher
+        </text>
+        <text font-size="38" x="425.1625" y="416.26596" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_@AlexSalmond">
+            @AlexSalmond
+        </text>
+        <text font-size="36" x="-590.14685" y="-516.0232" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_@MittRomney">
+            @MittRomney
+        </text>
+        <text font-size="35" x="-526.3955" y="-320.58206" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_@NYDailyNews">
+            @NYDailyNews
+        </text>
+        <text font-size="36" x="9.3408165" y="287.16125" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_@mboyle1">
+            @mboyle1
+        </text>
+        <text font-size="24" x="477.2525" y="823.03217" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_@Rosie">
+            @Rosie
+        </text>
+        <text font-size="30" x="366.16263" y="-653.90955" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_@UnionLeader">
+            @UnionLeader
+        </text>
+        <text font-size="35" x="304.01276" y="715.9588" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_@DannyZuker">
+            @DannyZuker
+        </text>
+        <text font-size="24" x="153.84734" y="1070.582" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_@DanAmira">
+            @DanAmira
+        </text>
+        <text font-size="29" x="408.8924" y="1041.3772" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_@NYMag">
+            @NYMag
+        </text>
+        <text font-size="24" x="246.25082" y="-971.0136" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_@JonahNRO">
+            @JonahNRO
+        </text>
+        <text font-size="29" x="756.48553" y="565.8825" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_@Toure">
+            @Toure
+        </text>
+    </g>
+</svg>
