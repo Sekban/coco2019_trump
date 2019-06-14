@@ -42,7 +42,7 @@
 @ABC: Affiliated network
 @leezagibbons: Entertainer
 @piersmorgan: Rival journalist
-@MikeAndMike: Random
+@MikeAndMike: neutral ESPN
 @MELANIATRUMP: Affiliated, his wife
 @TrumpSoHo: Affiliated, business
 @AmSpec: Affiliated, Republican Political Commentary
@@ -56,3 +56,13 @@ news channel ally : 13
 news channel rival : 4
 affiliated business : 8
 family : 5
+neutral: 7
+
+
+@nytimes -18
+@JebBush -8
+@AlexSalmond -6
+@NBCNews -4
+@NYMag
+@WSJ -2
+@DannyZuker -1
